@@ -1,25 +1,25 @@
 <!--
   Himanshu Choyal | GitHub Profile
-  Theme: Midnight Navy · Electric Violet · Ice Blue
+  Theme: Midnight Navy · Electric Blue (#3085FE) · Ice Blue
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=8B5CF6" width="100%" alt="Violet accent"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=3085FE" width="100%" alt="Blue accent"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=235&text=HIMANSHU%20CHOYAL&fontSize=48&fontColor=EDE9FE&stroke=8B5CF6&strokeWidth=1&animation=fadeIn&color=0:080B16,45:17132E,100:0B1020&desc=ENGINEERING%20%2F%2F%20AI%20%2F%2F%20SYSTEMS%20%2F%2F%20GAMES&descSize=14&descColor=93C5FD&descAlignY=72" width="100%" alt="Himanshu Choyal — developer profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=235&text=HIMANSHU%20CHOYAL&fontSize=48&fontColor=E6F0FF&stroke=3085FE&strokeWidth=1&animation=fadeIn&color=0:080B16,45:0F1B3D,100:0B1020&desc=ENGINEERING%20%2F%2F%20AI%20%2F%2F%20SYSTEMS%20%2F%2F%20GAMES&descSize=14&descColor=93C5FD&descAlignY=72" width="100%" alt="Himanshu Choyal — developer profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=700&color=A78BFA&center=true&vCenter=true&width=720&lines=Initializing+Himanshu.exe...;I+turn+curiosity+into+working+software.;Full-stack+%C2%B7+AI+%C2%B7+DevOps+%C2%B7+Game+Dev;Building+things%2C+breaking+things%2C+learning+fast.;Currently+compiling+my+next+side+quest..." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=700&color=3085FE&center=true&vCenter=true&width=720&lines=Initializing+Himanshu.exe...;I+turn+curiosity+into+working+software.;Full-stack+%C2%B7+AI+%C2%B7+DevOps+%C2%B7+Game+Dev;Building+things%2C+breaking+things%2C+learning+fast.;Currently+compiling+my+next+side+quest..." alt="Animated introduction"/>
 
 <br/>
 
-<a href="https://github.com/Himanshux99?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-8B5CF6?style=for-the-badge&labelColor=101426&logo=github&logoColor=EDE9FE" alt="Explore repositories"/></a>
-<a href="https://github.com/Himanshux99?tab=followers"><img src="https://img.shields.io/github/followers/Himanshux99?style=for-the-badge&label=FOLLOWERS&color=60A5FA&labelColor=101426&logo=github" alt="GitHub followers"/></a>
-<a href="https://github.com/Himanshux99?tab=stars"><img src="https://img.shields.io/github/stars/Himanshux99?style=for-the-badge&label=STARS&color=A78BFA&labelColor=101426&logo=github" alt="GitHub stars"/></a>
+<a href="https://himanshuchoyal.tech"><img src="https://img.shields.io/badge/PORTFOLIO-himanshuchoyal.tech-3085FE?style=for-the-badge&labelColor=101426&logo=googlechrome&logoColor=white" alt="Portfolio website"/></a>
+<a href="https://github.com/Himanshux99?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-3085FE?style=for-the-badge&labelColor=101426&logo=github&logoColor=white" alt="Explore repositories"/></a>
+<a href="https://github.com/Himanshux99?tab=followers"><img src="https://img.shields.io/github/followers/Himanshux99?style=for-the-badge&label=FOLLOWERS&color=3085FE&labelColor=101426&logo=github" alt="GitHub followers"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Himanshux99&style=flat-square&color=8B5CF6&label=PROFILE+VISITS" alt="Profile visits"/>
+<img src="https://komarev.com/ghpvc/?username=Himanshux99&style=flat-square&color=3085FE&label=PROFILE+VISITS" alt="Profile visits"/>
 
 </div>
 
@@ -32,6 +32,8 @@
 > Engineering student. Full-stack builder. AI explorer. Game dev enthusiast.  
 > **One brain, too many tabs, and always one more idea.**
 
+🌐 **Portfolio:** [himanshuchoyal.tech](https://himanshuchoyal.tech)
+
 </div>
 
 <details open>
@@ -41,6 +43,7 @@
 USER       Himanshu Choyal (@Himanshux99)
 BASE       Mumbai, India
 CLASS      Engineering Student · Vidyalankar Institute of Technology
+WEB        https://himanshuchoyal.tech
 INTERESTS  Full-stack · Explainable AI · DevOps · Game Development
 MINDSET    Learn → Build → Test → Debug → Ship
 
@@ -49,7 +52,7 @@ MINDSET    Learn → Build → Test → Debug → Ship
 [ RUN ] next-project.exe
 ```
 
-I like working across the stack: designing interfaces, building APIs, modeling data, experimenting with AI, and making deployments less fragile. I’m especially interested in projects that solve real problems instead of existing just to fill a portfolio.
+I work across the stack: designing interfaces, building APIs, modeling data, experimenting with AI, and making deployments less fragile. I'm most interested in projects that solve real problems rather than ones that only fill a portfolio.
 
 </details>
 
@@ -71,10 +74,10 @@ I like working across the stack: designing interfaces, building APIs, modeling d
 
 <div align="center">
 
-<a href="https://github.com/Himanshux99?tab=repositories"><img src="https://img.shields.io/badge/01-FULL--STACK%20ENGINEERING-8B5CF6?style=for-the-badge&labelColor=101426" alt="Full stack"/></a>
-<a href="https://github.com/Himanshux99?tab=repositories"><img src="https://img.shields.io/badge/02-EXPLAINABLE%20AI-60A5FA?style=for-the-badge&labelColor=101426" alt="Explainable AI"/></a>
-<a href="https://github.com/Himanshux99?tab=repositories"><img src="https://img.shields.io/badge/03-DEVOPS%20%26%20CLOUD-C4B5FD?style=for-the-badge&labelColor=101426" alt="DevOps"/></a>
-<a href="https://github.com/Himanshux99?tab=repositories"><img src="https://img.shields.io/badge/04-GAME%20DEVELOPMENT-93C5FD?style=for-the-badge&labelColor=101426" alt="Game development"/></a>
+<a href="https://github.com/Himanshux99?tab=repositories"><img src="https://img.shields.io/badge/01-FULL--STACK%20ENGINEERING-3085FE?style=for-the-badge&labelColor=101426" alt="Full stack"/></a>
+<a href="https://github.com/Himanshux99?tab=repositories"><img src="https://img.shields.io/badge/02-EXPLAINABLE%20AI-5BA0FF?style=for-the-badge&labelColor=101426" alt="Explainable AI"/></a>
+<a href="https://github.com/Himanshux99?tab=repositories"><img src="https://img.shields.io/badge/03-DEVOPS%20%26%20CLOUD-86BAFF?style=for-the-badge&labelColor=101426" alt="DevOps"/></a>
+<a href="https://github.com/Himanshux99?tab=repositories"><img src="https://img.shields.io/badge/04-GAME%20DEVELOPMENT-B3D4FF?style=for-the-badge&labelColor=101426" alt="Game development"/></a>
 
 </div>
 
@@ -92,7 +95,7 @@ Interfaces, APIs, normalized databases, and apps designed around actual workflow
 
 Python · PyTorch · Scikit-learn · FastAPI · SHAP · Fairlearn · Computer Vision
 
-Exploring interpretable ML, fairness-aware decisions, image classification, and useful AI integrations.
+Interpretable ML, fairness-aware decisions, image classification, and useful AI integrations.
 
 </details>
 
@@ -169,7 +172,11 @@ A campus-printing PWA concept plus a LAN social-deduction card game exploring sy
 
 </details>
 
-<sub>These are selected projects and experiments; check linked repositories for implementation details and current status.</sub>
+<div align="center">
+
+<sub>More projects and write-ups live at <a href="https://himanshuchoyal.tech">himanshuchoyal.tech</a>.</sub>
+
+</div>
 
 ---
 
@@ -183,9 +190,9 @@ A campus-printing PWA concept plus a LAN social-deduction card game exploring sy
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,prometheus,grafana,linux,git&theme=dark" alt="DevOps"/><br/>
 <img src="https://skillicons.dev/icons?i=pytorch,opencv,unity,godot,blender,figma&theme=dark" alt="AI and creative tools"/>
 
-</div>
-
 <sub>Tool icons reflect project exposure and ongoing learning—not equal proficiency in every technology.</sub>
+
+</div>
 
 ---
 
@@ -193,12 +200,12 @@ A campus-printing PWA concept plus a LAN social-deduction card game exploring sy
 
 <div align="center">
 
-<a href="https://github.com/Himanshux99"><img height="175" src="https://github-readme-stats.vercel.app/api?username=Himanshux99&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=93C5FD&text_color=E5E7EB&ring_color=8B5CF6" alt="GitHub stats"/></a>
-<a href="https://github.com/Himanshux99"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshux99&layout=compact&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=E5E7EB" alt="Top languages"/></a>
+<a href="https://github.com/Himanshux99"><img height="175" src="https://github-readme-stats.vercel.app/api?username=Himanshux99&show_icons=true&hide_border=true&bg_color=0B1020&title_color=3085FE&icon_color=3085FE&text_color=E5E7EB&ring_color=3085FE" alt="GitHub stats"/></a>
+<a href="https://github.com/Himanshux99"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshux99&layout=compact&hide_border=true&bg_color=0B1020&title_color=3085FE&text_color=E5E7EB" alt="Top languages"/></a>
 
 <br/>
 
-<a href="https://github.com/Himanshux99"><img src="https://streak-stats.demolab.com?user=Himanshux99&hide_border=true&background=0B1020&ring=8B5CF6&fire=93C5FD&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="Contribution streak"/></a>
+<a href="https://github.com/Himanshux99"><img src="https://streak-stats.demolab.com?user=Himanshux99&hide_border=true&background=0B1020&ring=3085FE&fire=3085FE&currStreakLabel=3085FE&sideLabels=93C5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="Contribution streak"/></a>
 
 <br/>
 
@@ -217,11 +224,9 @@ A campus-printing PWA concept plus a LAN social-deduction card game exploring sy
 </div>
 
 <details>
-<summary><b>▸ Enable the snake animation</b></summary>
+<summary><b>▸ How the snake works</b></summary>
 
-This image needs the included GitHub Actions workflow to generate the SVG and publish it to the `output` branch. Just adding the image URL will not create the workflow. The workflow runs daily and can also be started manually from the Actions tab.
-
-Reference implementation: <a href="https://github.com/Platane/snk">Platane/snk</a>.
+The animation is generated daily by the included GitHub Actions workflow and published to the `output` branch. It can also be run manually from the Actions tab. Built with <a href="https://github.com/Platane/snk">Platane/snk</a>.
 
 </details>
 
@@ -273,8 +278,9 @@ Now go ship something.
 
 <div align="center">
 
-<a href="https://github.com/Himanshux99"><img src="https://img.shields.io/badge/GitHub-Follow%20the%20build-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-60A5FA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://himanshuchoyal.tech"><img src="https://img.shields.io/badge/Portfolio-himanshuchoyal.tech-3085FE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/Himanshux99"><img src="https://img.shields.io/badge/GitHub-Follow%20the%20build-3085FE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/himanshu-choyal-89246932a"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-3085FE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br/><br/>
 
@@ -282,7 +288,7 @@ Now go ship something.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:312E81,100:0B1020&height=115&section=footer" width="100%" alt="Violet footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3085FE,50:12306B,100:0B1020&height=115&section=footer" width="100%" alt="Blue footer"/>
 
 <sub>HIMANSHUX99 // MIDNIGHT BUILD LAB // ALWAYS IN BETA</sub>
 
